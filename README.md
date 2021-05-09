@@ -1,0 +1,2 @@
+# educational_management_system
+课程教学事务管理平台
